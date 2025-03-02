@@ -1,4 +1,4 @@
-## Functional Programing Course at KSE
+## Functional Programing Course at Karazin University
 
 # Scala Course Spring
 
@@ -88,11 +88,11 @@ To clone the repository, follow this  [guide](https://docs.github.com/en/reposit
 
 
 
-The course repository is [here](https://github.com/Functional-Programming-KSE/scala-course-spring).
+The course repository is [here](https://github.com/Mexmath-Foundation/scala-course-spring).
 You can either use Intellij IDE or do it manually.
 For manually cloning create a new folder called `scala-course-spring`, move to the folder and run
 ````shell
-git clone https://github.com/Functional-Programming-KSE/scala-course-spring.git
+git clone https://github.com/Mexmath-Foundation/scala-course-spring.git
 ````
 in the commandline
 
@@ -104,8 +104,8 @@ git remote -v
 ```
 in the commandline, the output should be
 ```shell
-origin	https://github.com/Functional-Programming-KSE/scala-course-spring.git (fetch)
-origin	https://github.com/Functional-Programming-KSE/scala-course-spring.git (push)
+origin	https://github.com/Mexmath-Foundation/scala-course-spring.git (fetch)
+origin	https://github.com/Mexmath-Foundation/scala-course-spring.git (push)
 ```
 #### Check the branches
 To check the branches run the following command
@@ -137,8 +137,8 @@ in the commandline.
 
 Run `git remote -v` in the commandline, the output should be
 ```shell
-course	https://github.com/Functional-Programming-KSE/scala-course-spring.git (fetch)
-course	https://github.com/Functional-Programming-KSE/scala-course-spring.git (push)
+course	https://github.com/Mexmath-Foundation/scala-course-spring.git (fetch)
+course	https://github.com/Mexmath-Foundation/scala-course-spring.git (push)
 ```
 #### Disable pushes
 To prevent pushing to the course repository replace push url by any non-existent url, i.e. DISABLED run the following command
@@ -149,7 +149,7 @@ in the commandline.
 
 Run `git remote -v` in the commandline, the output should be
 ```shell
-course	https://github.com/Functional-Programming-KSE/scala-course-spring.git (fetch)
+course	https://github.com/Mexmath-Foundation/scala-course-spring.git (fetch)
 course	DISABLED (push)
 ```
 
@@ -168,7 +168,7 @@ Run each command one-by-one in the commandline.
 
 Execute `git remote -v` in the commandline, the output should be
 ```shell
-course	https://github.com/Functional-Programming-KSE/scala-course-spring.git (fetch)
+course	https://github.com/Mexmath-Foundation/scala-course-spring.git (fetch)
 course	DISABLED (push)
 origin  https://github.com/<your github account>/scala-course-spring.git (fetch)
 origin  https://github.com/<your github account>/scala-course-spring.git (push)
